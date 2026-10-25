@@ -1,7 +1,4 @@
-﻿//sistem karyawan
-
-
-public class Karyawan
+﻿public class Karyawan
 {
     public string nama { get; set; }
     public int gaji { get; set; }
